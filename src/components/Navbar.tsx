@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import { useShoppingCart } from "../contexts/ShoppingCartContext";
 
 export function Navbar() {
-  const { openCart, closeCart, cartQuantity } = useShoppingCart();
+  const { openCart, cartQuantity } = useShoppingCart();
   return (
     <>
       <NavbarBoot className="bg-white shadow-sm mb-3" sticky="top">
