@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 550,
+    "imgUrl": "https://images.freeimages.com/images/large-previews/18d/bookshelf-1617462.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 6500,
+    "imgUrl": "https://images.freeimages.com/images/large-previews/808/handphone-1241493.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Shirt",
+    "price": 1500,
+    "imgUrl": "https://images.freeimages.com/images/large-previews/cbd/self-1236617.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "price": 5000,
+    "imgUrl": "https://images.freeimages.com/images/large-previews/5c6/sri-watch-1-1198442.jpg"
+  }
+]
